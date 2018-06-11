@@ -1,8 +1,10 @@
-# Daily-
+## Daily-
 
-2018.06
-*python+SQL
+#2018.06 <P>
+
+*python+SQL<br>
 *python+keras
+
 ------------------
 2018.07
 ------------------
