@@ -5,6 +5,8 @@
 * python+SQL<br>
 * python+keras
 
+  * by t-acamedy
+
 ------------------
 ## 2018.07 <P>
   
