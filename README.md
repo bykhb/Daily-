@@ -2,7 +2,11 @@
 
 ## 2018.06 <P>
 
-* python+SQL<br>
+* python_basic
+
+* python_visualization(matplot)
+
+
 * python+keras
 
   * by t-acamedy
