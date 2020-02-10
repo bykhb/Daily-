@@ -12,6 +12,10 @@
 02.10(mon)
   - Interactive Graph with Plotly(cufflinks)
   
+02.11(tue)
+  - Interactive Graph with Plotly(cufflinks)
+
+  
   
 ----------
 ### 2020.03
