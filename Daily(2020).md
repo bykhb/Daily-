@@ -13,7 +13,7 @@
   - Interactive Graph with Plotly(cufflinks)
   
 02.11(tue)
-  - Interactive Graph with Plotly(cufflinks)
+  - Max pooling in CNN(?)
 
   
   
