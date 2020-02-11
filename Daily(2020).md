@@ -14,8 +14,9 @@
   
 02.11(tue)
   - Max pooling in CNN(?)
-
-  
+  - Loss Function Vs. Cost Function
+  - 
+  - 
   
 ----------
 ### 2020.03
