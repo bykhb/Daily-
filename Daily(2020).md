@@ -17,9 +17,7 @@
   - Loss Function Vs. Cost Function
   
 02.12(wed)
-  - asd 
-  -
-    
+  -Data Consistency
   
 ----------
 ### 2020.03
