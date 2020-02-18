@@ -27,6 +27,8 @@
   - ddddd
   
 02.18 (tue)
+  - (ptyhon to git, github blog) 확인하기 
+  - (데이터 마트, 데이터 소유권), Time to Value
   - 
   
   
