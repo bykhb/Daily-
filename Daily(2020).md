@@ -34,7 +34,7 @@
   - 판단의 문제 -> 용기의 문제...
   
 02.22 (sat)
-  - Data to chart to money
+  - Data to chart to value to money
 
 
 ------------------------------------------------------------
