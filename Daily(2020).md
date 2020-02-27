@@ -41,6 +41,8 @@
   
 02.27 (thu)
   - Customer Profiling more deeper
+  - cloud function
+  - cloud dataflow
 
 
 ------------------------------------------------------------
