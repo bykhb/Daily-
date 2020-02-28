@@ -22,9 +22,9 @@
 02.13 ~ 02.16(thu, fri, sat, sun)
   - Bar Race Chart
   - 'sudo apt get'
-  - 
+  
 02.17 (mon)
-  - ddddd
+  - 
   
 02.18 (tue)
   - (ptyhon to git, github blog) 확인하기 
@@ -48,7 +48,9 @@
   - 카프카, nifi, Airflow,
   - HDFS, S3, 
   - Json, elasticsearch
-  
+
+02.29 (sat)
+  - elasticsearch, github.io
 
 
 ------------------------------------------------------------
