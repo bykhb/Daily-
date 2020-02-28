@@ -45,7 +45,7 @@
   - cloud dataflow
 
 02.28 (fri)
-  - 
+  - 카프카, nifi, Airflow, 
   - 
   
 
