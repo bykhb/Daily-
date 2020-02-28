@@ -45,8 +45,9 @@
   - cloud dataflow
 
 02.28 (fri)
-  - 카프카, nifi, Airflow, 
-  - 
+  - 카프카, nifi, Airflow,
+  - HDFS, S3, 
+  - Json, elasticsearch
   
 
 
