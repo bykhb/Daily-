@@ -68,8 +68,8 @@
   - github gist
   - code snippet
   
-03.05 ()
-  - ???
+03.05 (thu)
+  - customer profiling
 
   
 
