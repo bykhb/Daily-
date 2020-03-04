@@ -61,3 +61,11 @@
   - score 정규화
   - label 관리
 
+03.03 (tue)
+  - x
+  
+03.04 (wed)
+  - github gist
+  - code snippet
+  
+
