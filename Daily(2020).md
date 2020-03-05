@@ -74,7 +74,8 @@
   
 03.065 (fri)
   - how to load a super big size dataset to python?
-  - imbalanced classification --> GAN 
+  - imbalanced classification --> GAN
+  - kubeflow 
 
 
 
