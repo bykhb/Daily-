@@ -70,6 +70,8 @@
   
 03.05 (thu)
   - customer profiling
+  - auc roc, log loss, auc pr
+
 
   
 
