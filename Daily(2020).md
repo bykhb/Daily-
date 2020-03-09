@@ -72,12 +72,11 @@
   - customer profiling
   - auc roc, log loss, auc pr
   
-03.065 (fri)
+03.06 (fri)
   - how to load a super big size dataset to python?
   - imbalanced classification --> GAN
   - kubeflow 
-
-
-
   
+03.09 (mon)
+  - ddddd
 
