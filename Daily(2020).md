@@ -4,27 +4,17 @@
 
 |날짜|What?|Organized?|Reference|
 |---|---|---|---|
-|02.08(sat)|- softmax와 score 정규화 <br> - fully connected??|N|- |
-|02.09(sun)|- Interactive Graph with Plotly(cufflinks) |N|- |
-|02.11(tue)|- Max Pooling in CNN <br> - Loss Function Vs. Cost Function |N|- |
+|02.08(Sat)|- softmax와 score 정규화 <br> - fully connected??|N|- |
+|02.09(Sun)|- Interactive Graph with Plotly(cufflinks) |N|- |
+|02.11(Tue)|- Max Pooling in CNN <br> - Loss Function Vs. Cost Function |N|- |
 |02.13(Thu)|- Bar Race Chart <br> - "sudo apt-get" |N|- |
-|02.18 (tue)|- python to github, github.io <br> - Data Mart, Data Ownership, Time to value |N|- |
-|02.08(sat)|- softmax와 score 정규화 <br> - fully connected??|N|- |
+|02.18 (Tue)|- python to github, github.io <br> - Data Mart, Data Ownership, Time to value |N|- |
+|02.22(Sat)|- Data to chart to value to money |N|- |
+|02.27(Thu)|- Customer Profiling (Using AI)
+          <br>- Cloud function, Cloud Dataflow |N|- |
+|02.22(Sat)|- Data to chart to value to money |N|- |
+|02.22(Sat)|- Data to chart to value to money |N|- |
   
-  
-02.20 (thu)
-  - 판단의 문제 -> 용기의 문제...
-  
-02.22 (sat)
-  - Data to chart to value to money
-  
-02.23 (sun)
-  - EDA with Excel
-  
-02.27 (thu)
-  - Customer Profiling more deeper
-  - cloud function
-  - cloud dataflow
 
 02.28 (fri)
   - 카프카, nifi, Airflow,
