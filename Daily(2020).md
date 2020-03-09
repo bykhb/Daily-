@@ -11,44 +11,16 @@
 |02.18 (Tue)|- python to github, github.io <br> - Data Mart, Data Ownership, Time to value |N|- |
 |02.22(Sat)|- Data to chart to value to money |N|- |
 |02.27(Thu)|- Customer Profiling (Using AI) <br>- Cloud function, Cloud Dataflow |N|- |
-|02.22(Sat)|- Data to chart to value to money |N|- |
-|02.22(Sat)|- Data to chart to value to money |N|- |
-  
+|02.28(Fri)|- Kafka, NIFI, Airflow, HDFS, S3, JSON, Elasticsearch |N|- |
 
-02.28 (fri)
-  - 카프카, nifi, Airflow,
-  - HDFS, S3, 
-  - Json, elasticsearch
-
-02.29 (sat)
-  - elasticsearch, github.io
 ------------------------------------------------------------
 ### 2020.03
 
-03.01 (sun)
-  - x
+|날짜|What?|Organized?|Reference|
+|---|---|---|---|
+|03.02(Mon)|- score 정규화 <br> - Label 관리 |N|- |
+|03.04(Wed)|- Github gist <br> - code snippet |N|- |
+|03.05(Thu)|- Model Evaluation Metric : auc roc, logloss, auc pr |N|- |
+|03.06(Fri)|- Big Size Dataset to Python? <br> - Imbalanced Classificatino(using GAN) <br> - kubeflow |N|- |
 
-03.02 (mon)
-  - score 정규화
-  - label 관리
-
-03.03 (tue)
-  - x
-  
-03.04 (wed)
-  - github gist
-  - code snippet
-  
-03.05 (thu)
-  - customer profiling
-  - auc roc, log loss, auc pr
-  
-03.06 (fri)
-  - how to load a super big size dataset to python?
-  - imbalanced classification --> GAN
-  - kubeflow 
-  
-03.09 (mon)
-  - ddddd
-
---------------------------
+------------------------------------------------------------
