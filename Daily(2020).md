@@ -2,35 +2,15 @@
 ------------------------------------------------------------
 ### 2020.02
 
-|날짜|What?|Why?|
+|날짜|What?|Organized?|Reference|
 |---|---|---|
-|02.08(sat)|- softmax와 score 정규화<br> - fully connected??|테스트3|
-|02.09(sun)||테스트3|
-|테스트1|테스트2|테스트3|
-    
-02.09(sun)
-  - Interactive Graph with Plotly(cufflinks)
+|02.08(sat)|- softmax와 score 정규화 <br> - fully connected??|N|- |
+|02.09(sun)|- Interactive Graph with Plotly(cufflinks) |N|- |
+|02.11(tue)|- Max Pooling in CNN <br> - Loss Function Vs. Cost Function |N|- |
+|02.13(Thu)|- Bar Race Chart <br> - "sudo apt-get" |N|- |
+|02.18 (tue)|- python to github, github.io <br> - Data Mart, Data Ownership, Time to value |N|- |
+|02.08(sat)|- softmax와 score 정규화 <br> - fully connected??|N|- |
   
-02.10(mon)
-  - Interactive Graph with Plotly(cufflinks)
-  
-02.11(tue)
-  - Max pooling in CNN(?)
-  - Loss Function Vs. Cost Function
-  
-02.12(wed)
-  - Data Consistency
-  
-02.13 ~ 02.16(thu, fri, sat, sun)
-  - Bar Race Chart
-  - 'sudo apt get'
-  
-02.17 (mon)
-  - x
-  
-02.18 (tue)
-  - (ptyhon to git, github blog) 확인하기 
-  - (데이터 마트, 데이터 소유권), Time to Value
   
 02.20 (thu)
   - 판단의 문제 -> 용기의 문제...
