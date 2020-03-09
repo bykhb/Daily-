@@ -3,7 +3,7 @@
 ### 2020.02
 
 |날짜|What?|Organized?|Reference|
-|---|---|---|
+|---|---|---|---|
 |02.08(sat)|- softmax와 score 정규화 <br> - fully connected??|N|- |
 |02.09(sun)|- Interactive Graph with Plotly(cufflinks) |N|- |
 |02.11(tue)|- Max Pooling in CNN <br> - Loss Function Vs. Cost Function |N|- |
