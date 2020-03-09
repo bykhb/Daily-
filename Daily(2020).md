@@ -10,8 +10,7 @@
 |02.13(Thu)|- Bar Race Chart <br> - "sudo apt-get" |N|- |
 |02.18 (Tue)|- python to github, github.io <br> - Data Mart, Data Ownership, Time to value |N|- |
 |02.22(Sat)|- Data to chart to value to money |N|- |
-|02.27(Thu)|- Customer Profiling (Using AI)
-          <br>- Cloud function, Cloud Dataflow |N|- |
+|02.27(Thu)|- Customer Profiling (Using AI) <br>- Cloud function, Cloud Dataflow |N|- |
 |02.22(Sat)|- Data to chart to value to money |N|- |
 |02.22(Sat)|- Data to chart to value to money |N|- |
   
