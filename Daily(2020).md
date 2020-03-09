@@ -3,15 +3,11 @@
 ### 2020.02
 
 |날짜|What?|Why?|
+|---|---|---|
+|02.08(sat)|- softmax와 score 정규화|테스트3|
+|02.09(sun)|- fully connected??|테스트3|
 |테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-
-
-02.08(sau)
-  - softmax와 score 정규화
-  - fully connected??
-  
+    
 02.09(sun)
   - Interactive Graph with Plotly(cufflinks)
   
