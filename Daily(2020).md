@@ -4,7 +4,7 @@
 
 |날짜|What?|Why?|
 |---|---|---|
-|02.08(sat)|- softmax와 score 정규화/br - fully connected??|테스트3|
+|02.08(sat)|- softmax와 score 정규화<br> - fully connected??|테스트3|
 |02.09(sun)||테스트3|
 |테스트1|테스트2|테스트3|
     
